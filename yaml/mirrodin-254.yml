@@ -1,0 +1,116 @@
+---
+object: card
+id: a00b65f7-70d0-4bbd-ac13-be24cc3374ee
+oracle_id: f2ccc9e8-8e92-4f8c-8728-8c748630e0dd
+multiverse_ids:
+- 39600
+mtgo_id: 19683
+mtgo_foil_id: 19684
+tcgplayer_id: 11562
+cardmarket_id: 254
+name: Talisman of Impulse
+lang: en
+released_at: '2003-10-02'
+uri: https://api.scryfall.com/cards/a00b65f7-70d0-4bbd-ac13-be24cc3374ee
+scryfall_uri: https://scryfall.com/card/mrd/254/talisman-of-impulse?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.jpg?1562152676
+  normal: https://cards.scryfall.io/normal/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.jpg?1562152676
+  large: https://cards.scryfall.io/large/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.jpg?1562152676
+  png: https://cards.scryfall.io/png/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.png?1562152676
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.jpg?1562152676
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a00b65f7-70d0-4bbd-ac13-be24cc3374ee.jpg?1562152676
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Add {R} or {G}. Talisman of Impulse deals 1 damage to you.
+colors: []
+color_identity:
+- G
+- R
+keywords: []
+produced_mana:
+- C
+- G
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set: mrd
+set_name: Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mrd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a00b65f7-70d0-4bbd-ac13-be24cc3374ee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2ccc9e8-8e92-4f8c-8728-8c748630e0dd&unique=prints
+collector_number: '254'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Dringenberg
+artist_ids:
+- a1407afa-0f54-43f8-938b-88b268074f91
+illustration_id: 62fac281-b765-4e06-a80c-64bda45d285a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1269
+penny_rank: 1108
+prices:
+  usd: '1.81'
+  usd_foil: '11.08'
+  usd_etched: 
+  eur: '0.39'
+  eur_foil: '2.78'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39600
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Talisman+of+Impulse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Talisman+of+Impulse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Talisman+of+Impulse
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11562?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Talisman+of+Impulse&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/19683?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

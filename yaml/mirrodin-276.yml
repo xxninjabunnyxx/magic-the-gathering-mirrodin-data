@@ -1,0 +1,111 @@
+---
+object: card
+id: 3cb1b869-3e2d-4447-a12d-e790883feeee
+oracle_id: 31be715f-9ad3-435c-9e52-e108fe96b969
+multiverse_ids:
+- 46791
+mtgo_id: 20267
+mtgo_foil_id: 20268
+tcgplayer_id: 11313
+cardmarket_id: 276
+name: Worldslayer
+lang: en
+released_at: '2003-10-02'
+uri: https://api.scryfall.com/cards/3cb1b869-3e2d-4447-a12d-e790883feeee
+scryfall_uri: https://scryfall.com/card/mrd/276/worldslayer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.jpg?1562140998
+  normal: https://cards.scryfall.io/normal/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.jpg?1562140998
+  large: https://cards.scryfall.io/large/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.jpg?1562140998
+  png: https://cards.scryfall.io/png/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.png?1562140998
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.jpg?1562140998
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3cb1b869-3e2d-4447-a12d-e790883feeee.jpg?1562140998
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.
+  Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)
+colors: []
+color_identity: []
+keywords:
+- Equip
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set: mrd
+set_name: Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mrd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3cb1b869-3e2d-4447-a12d-e790883feeee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A31be715f-9ad3-435c-9e52-e108fe96b969&unique=prints
+collector_number: '276'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 2b7e7074-2e66-44e6-b4e7-aae875299b27
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5959
+penny_rank: 8183
+prices:
+  usd: '2.06'
+  usd_foil: '18.62'
+  usd_etched: 
+  eur: '1.33'
+  eur_foil: '5.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46791
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Worldslayer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Worldslayer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Worldslayer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Worldslayer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/20267?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

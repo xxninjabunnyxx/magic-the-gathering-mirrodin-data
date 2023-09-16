@@ -1,0 +1,110 @@
+---
+object: card
+id: 98312bc3-9d2a-480c-bcf0-db8d70d632b9
+oracle_id: c82091b2-f2f1-4a85-80d6-91ab218f0a94
+multiverse_ids:
+- 46135
+mtgo_id: 20031
+mtgo_foil_id: 20032
+tcgplayer_id: 11484
+cardmarket_id: 170
+name: Farsight Mask
+lang: en
+released_at: '2003-10-02'
+uri: https://api.scryfall.com/cards/98312bc3-9d2a-480c-bcf0-db8d70d632b9
+scryfall_uri: https://scryfall.com/card/mrd/170/farsight-mask?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.jpg?1562151731
+  normal: https://cards.scryfall.io/normal/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.jpg?1562151731
+  large: https://cards.scryfall.io/large/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.jpg?1562151731
+  png: https://cards.scryfall.io/png/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.png?1562151731
+  art_crop: https://cards.scryfall.io/art_crop/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.jpg?1562151731
+  border_crop: https://cards.scryfall.io/border_crop/front/9/8/98312bc3-9d2a-480c-bcf0-db8d70d632b9.jpg?1562151731
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact
+oracle_text: Whenever a source an opponent controls deals damage to you, if Farsight
+  Mask is untapped, you may draw a card.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set: mrd
+set_name: Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mrd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/98312bc3-9d2a-480c-bcf0-db8d70d632b9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac82091b2-f2f1-4a85-80d6-91ab218f0a94&unique=prints
+collector_number: '170'
+digital: false
+rarity: uncommon
+flavor_text: It turns the adversity of the moment into the knowledge of a lifetime.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ben Thompson
+artist_ids:
+- f3116c88-57f4-4fd1-95f3-cfd163977661
+illustration_id: aefe7bc2-9e82-4231-adfc-860f6a803afb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11025
+penny_rank: 9821
+prices:
+  usd: '0.27'
+  usd_foil: '1.36'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.15'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46135
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Farsight+Mask&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Farsight+Mask&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Farsight+Mask
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11484?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Farsight+Mask&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/20031?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

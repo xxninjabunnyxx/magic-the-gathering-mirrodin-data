@@ -1,0 +1,113 @@
+---
+object: card
+id: d9467839-b2a2-4cfe-a60e-12766e2ba983
+oracle_id: 3460e86f-c182-4ca9-bd90-7949b0759c98
+multiverse_ids:
+- 48210
+mtgo_id: 20117
+mtgo_foil_id: 20118
+tcgplayer_id: 11519
+cardmarket_id: 208
+name: Mirror Golem
+lang: en
+released_at: '2003-10-02'
+uri: https://api.scryfall.com/cards/d9467839-b2a2-4cfe-a60e-12766e2ba983
+scryfall_uri: https://scryfall.com/card/mrd/208/mirror-golem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.jpg?1562159459
+  normal: https://cards.scryfall.io/normal/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.jpg?1562159459
+  large: https://cards.scryfall.io/large/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.jpg?1562159459
+  png: https://cards.scryfall.io/png/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.png?1562159459
+  art_crop: https://cards.scryfall.io/art_crop/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.jpg?1562159459
+  border_crop: https://cards.scryfall.io/border_crop/front/d/9/d9467839-b2a2-4cfe-a60e-12766e2ba983.jpg?1562159459
+mana_cost: "{6}"
+cmc: 6.0
+type_line: Artifact Creature — Golem
+oracle_text: |-
+  Imprint — When Mirror Golem enters the battlefield, you may exile target card from a graveyard.
+  Mirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)
+power: '3'
+toughness: '4'
+colors: []
+color_identity: []
+keywords:
+- Imprint
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set: mrd
+set_name: Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mrd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d9467839-b2a2-4cfe-a60e-12766e2ba983/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3460e86f-c182-4ca9-bd90-7949b0759c98&unique=prints
+collector_number: '208'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Franz Vohwinkel
+artist_ids:
+- 3a243c17-3baa-4b53-9599-645311cd7d3d
+illustration_id: 8cb697d6-24f2-4390-b03b-e19dd957b094
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19556
+penny_rank: 14362
+prices:
+  usd: '0.15'
+  usd_foil: '0.47'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.98'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48210
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mirror+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mirror+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mirror+Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11519?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mirror+Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/20117?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 147c826a-b664-4afa-ae7f-284ddce80861
+oracle_id: 3cbd4c8e-fe3f-4a7c-90a5-7bc656d7bb10
+multiverse_ids:
+- 46103
+mtgo_id: 19793
+mtgo_foil_id: 19794
+tcgplayer_id: 11427
+cardmarket_id: 108
+name: Spikeshot Goblin
+lang: en
+released_at: '2003-10-02'
+uri: https://api.scryfall.com/cards/147c826a-b664-4afa-ae7f-284ddce80861
+scryfall_uri: https://scryfall.com/card/mrd/108/spikeshot-goblin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.jpg?1562136612
+  normal: https://cards.scryfall.io/normal/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.jpg?1562136612
+  large: https://cards.scryfall.io/large/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.jpg?1562136612
+  png: https://cards.scryfall.io/png/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.png?1562136612
+  art_crop: https://cards.scryfall.io/art_crop/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.jpg?1562136612
+  border_crop: https://cards.scryfall.io/border_crop/front/1/4/147c826a-b664-4afa-ae7f-284ddce80861.jpg?1562136612
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Goblin Shaman
+oracle_text: "{R}, {T}: Spikeshot Goblin deals damage equal to its power to any target."
+power: '1'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set: mrd
+set_name: Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mrd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/147c826a-b664-4afa-ae7f-284ddce80861/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3cbd4c8e-fe3f-4a7c-90a5-7bc656d7bb10&unique=prints
+collector_number: '108'
+digital: false
+rarity: common
+flavor_text: The path of a goblin shaman is a journey through a thousand ways of hurting
+  people.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Pollack
+artist_ids:
+- 70c20ea3-5ad6-4082-a337-6e994ae5828e
+illustration_id: 2f0dd467-712b-4f58-8a57-6e54d3a058f0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13577
+penny_rank: 13855
+prices:
+  usd: '0.13'
+  usd_foil: '1.12'
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: '0.50'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46103
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spikeshot+Goblin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spikeshot+Goblin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spikeshot+Goblin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11427?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spikeshot+Goblin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/19793?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
